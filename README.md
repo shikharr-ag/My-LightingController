@@ -1,16 +1,6 @@
-# lighting_control
+The source code of initial assignment for internship @ Folk Developers
 
-A new Flutter project.
+Snapshots:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter Assignment-2](https://github.com/shikharr-ag/My-LightingController/assets/52531507/3ffa3fda-148d-47de-8d8f-ac35742dc726)
+![Flutter Assignment-1](https://github.com/shikharr-ag/My-LightingController/assets/52531507/4901966f-9448-4405-b5f0-3ce83e3d40c5)
